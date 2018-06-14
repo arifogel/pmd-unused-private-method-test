@@ -353,7 +353,7 @@
   </dependencyManagement>
 
   <modules>
-    <module>pmd-unused-private-method-test-build</module>
+    <module>pmd-unused-private-method-test</module>
     <module>pmd-unused-private-method-test-build-tools</module>
   </modules>
 </project>
